@@ -3,3 +3,5 @@
 // This is new commit on my feature branch test 2.
 
 // This change is from svn-002 branch
+
+// This change is from svn-002 commit 2 branch
